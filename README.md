@@ -12,6 +12,7 @@ Offers marked "Limited time" can expire, so grab those first.
 - [Programming & Development](#programming--development)
 - [Data Science & AI/ML](#data-science--aiml)
 - [Cybersecurity](#cybersecurity)
+- [Testing & QA](#testing--qa)
 - [Project Management & Agile](#project-management--agile)
 - [Databases](#databases)
 - [DevOps](#devops)
@@ -45,7 +46,18 @@ Offers marked "Limited time" can expire, so grab those first.
 | Kaggle Learn Micro-courses | Kaggle | Free short courses with completion certificates (Python, Pandas, ML, Computer Vision) | [Link](https://www.kaggle.com/learn) | Unlimited |
 | Python / JavaScript / Linux Essentials | Cisco Networking Academy | Free self-paced courses with Certificate of Completion and Credly badge | [Link](https://www.netacad.com/) | Unlimited |
 | Saylor Academy CS Courses | Saylor.org | Free courses with free certificates of completion (Python, Data Structures, Software Engineering) | [Link](https://www.saylor.org/) | Unlimited |
-| Test Automation University | Applitools | Free test-automation courses with certificates | [Link](https://testautomationu.applitools.com/) | Unknown |
+
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
+
+## Testing & QA
+
+| Certification | Provider | Description | Link | Expiration |
+| --- | --- | --- | --- | --- |
+| TestMu AI Certifications | TestMu AI (formerly LambdaTest) | 20+ free certs: Selenium, Playwright, Cypress, Appium, AI visual and agent testing | [Link](https://lambdatest.com/certifications) | 2 years |
+| BrowserStack Test University | BrowserStack | 40+ free hands-on courses with completion certifications | [Link](https://www.browserstack.com/test-university) | Lifelong |
+| Katalon Certifications | Katalon | Hands-on automation certs earned by real product usage in Katalon Studio; no exam | [Link](https://academy.katalon.com/certifications/practitioner/) | 2 years |
+| Tricentis Tosca AS1 / AS2 | Tricentis | Model-based test automation certs; free via Tricentis Academy on-demand exams | [Link](https://www.tricentis.com/) | Unknown |
+| Test Automation University | Applitools | 70+ free test-automation courses with certificates across frameworks and languages | [Link](https://testautomationu.applitools.com/) | Unknown |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
