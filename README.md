@@ -16,6 +16,7 @@ Offers marked "Limited time" can expire, so grab those first.
 - [Project Management & Agile](#project-management--agile)
 - [Databases](#databases)
 - [DevOps](#devops)
+- [Performance Testing & Observability](#performance-testing--observability)
 - [Marketing](#marketing)
 - [Miscellaneous](#miscellaneous)
 - [No Longer Free](#no-longer-free)
@@ -113,6 +114,19 @@ Offers marked "Limited time" can expire, so grab those first.
 | Google Cloud DevOps Badges | Google Cloud | Free shareable DevOps skill badges via Skills Boost | [Link](https://www.cloudskillsboost.google/) | Unlimited |
 | Linux Foundation Free Badges | Linux Foundation | Free open-source courses with digital badges and SkillCreds | [Link](https://training.linuxfoundation.org/) | Unknown |
 | AWS Educate CloudOps Pathways | AWS | Free CloudOps and developer pathways with digital badges | [Link](https://aws.amazon.com/education/awseducate/) | Unlimited |
+
+<p align="center"><a href="#table-of-contents">(back to top)</a></p>
+
+## Performance Testing & Observability
+
+| Certification | Provider | Description | Link | Expiration |
+| --- | --- | --- | --- | --- |
+| Apache JMeter – Intro / Pro | BlazeMeter University | Free JMeter courses with certificates on passing the exam; note Apache itself does not certify | [Link](https://university.blazemeter.com/learn) | Lifetime |
+| Master BlazeMeter Performance Testing | BlazeMeter University | Free BlazeMeter platform training with certificate on passing the exam | [Link](https://university.blazemeter.com/learn) | Lifetime |
+| New Relic Verified Foundation (NVF) | New Relic University | Free 45-minute online observability exam; digital badge and certificate on pass | [Link](https://learn.newrelic.com/page/new-relic-verified-foundation-nvf) | Unknown |
+| Datadog Learning Center Badges | Datadog | Free completion badges via Credly for each Learning Path, including a dedicated SRE path | [Link](https://www.datadoghq.com/blog/datadog-learning-paths/) | Unknown |
+| GROT Academy Badges (6) | Grafana | Free digital badges via Credly: Trailblazer, Explorer, and 4 Navigator badges | [Link](https://learn.grafana.com/) | Unknown |
+| Gremlin Certified Chaos Engineering Practitioner | Gremlin | Free chaos engineering certification, shareable on LinkedIn | [Link](https://www.gremlin.com/certification) | Unknown |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
